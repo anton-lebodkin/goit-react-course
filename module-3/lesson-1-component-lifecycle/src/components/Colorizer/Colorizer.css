@@ -1,0 +1,32 @@
+#container {
+  padding: 50px;
+  background-color: #fff;
+}
+
+.colorSquare {
+  box-shadow: 0px 0px 25px 0px #333;
+  width: 242px;
+  height: 242px;
+  margin-bottom: 15px;
+}
+
+.colorArea input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+}
+
+.colorArea button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  background-color: #666;
+  color: #fff;
+  border: 2px solid #666;
+}
+
+.colorArea button:hover {
+  background-color: #111;
+  border-color: #111;
+  cursor: pointer;
+}

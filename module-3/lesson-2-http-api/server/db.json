@@ -1,0 +1,32 @@
+{
+  "friends": [
+    {
+      "id": "1",
+      "firstName": "Walter",
+      "lastName": "White",
+      "gender": "Male",
+      "age": 55
+    },
+    {
+      "id": "aG1guHh5sQMHuXLLrkgap",
+      "firstName": "John",
+      "lastName": "Wick",
+      "gender": "Male",
+      "age": 56
+    },
+    {
+      "id": "M5xgZGYoMCUS-eU8KyQEd",
+      "firstName": "Abc",
+      "lastName": "Bcd",
+      "gender": "Female",
+      "age": 30
+    },
+    {
+      "id": "oAnld94goFZ7PrNAvuH4w",
+      "firstName": "Bob",
+      "lastName": "Bob",
+      "gender": "Male",
+      "age": 30
+    }
+  ]
+}
